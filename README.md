@@ -1,5 +1,5 @@
 # pet-feeder
-A pratical DIY Pet Feeder, suitable for feeding your pet once a day while you are at work
+A pratical DIY Pet Feeder, suitable for feeding your pet once a day while you are at work.
 
 ## Circuit Diagram
 
@@ -17,7 +17,10 @@ Also, even though it is a simple circuit, remember to keep a common GND between 
 As I needed something practical to feed my dog during lunch for only 1 week, I made a simple interface just to release a single portion, as the other meals I could give normally.
 
 So, I used a PVC pipe and a thin plastic lid, glued on the Servo motor, in order to open and close this lid at a certain time, once a day, as shown in the image below.
+
 <img
   src="https://i.imgur.com/q5mxehA.png"
   width="500" height="500"
   style="display: inline-block; margin: 0 auto; max-width: 500px">
+
+
